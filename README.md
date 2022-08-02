@@ -1,1 +1,1 @@
-# MPIGameSimultion
+# Game "Life" J.Conway
